@@ -13,7 +13,7 @@ U have to be kidding me!
 - **learned scraping with beautiful soup**
 - **learned about API´s and how to "play with" aka request them**
 - **went deeper into SQL (aswell as building a nice epic cheatsheet for future references as a little side project)**
-- **did some almost pythonic alchemy to finally connect both languages**
+- **did some "alchemy" to finally connect both languages**
 - **handled the new to me AWS webservices "like a breeze" to automate**
 
 Sure, most of the stuff is pretty basic but i definetly know how to help myself if i have to dive deeper into the specific topics an am really having a blast so far.
