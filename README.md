@@ -21,6 +21,6 @@ Don´t expect much more than a rookie coding. But i can imagine what else i can 
 Nothing super special, no cool "i-am-so-proud-i-invented-a-automating-function-in-pandas" thingie like in project 2 (apart from my cheatsheet for sql maybe),
 but something that really shows off that i get the stuff done, even with little basic workarounds when needed.
 
-Now having to start a article about it on medium i gonna link here, as the final presentation of the project.
+https://medium.com/@alexdolch/gansing-the-gans-9878282eac0c - the article about the project
 
 ---
